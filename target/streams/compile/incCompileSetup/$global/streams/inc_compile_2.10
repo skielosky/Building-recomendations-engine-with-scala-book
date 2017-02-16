@@ -1,0 +1,451 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+31 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Constants$class.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Constants.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/DataConfig$.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/DataConfig.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Restaurant$.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Restaurant.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/SessionData$.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/SessionData.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$1.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$2.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$3.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$4.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$10.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$6.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$7.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$8.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$9$$anonfun$apply$1.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$9.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$main$1.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$main$2$$anonfun$apply$2.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$main$2.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$$anonfun$1.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$$anonfun$2$$anonfun$3.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$$anonfun$2.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$$anonfun$4$$anonfun$5.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$$anonfun$4.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$.class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities.class
+binary dependencies:
+6 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/lib_managed/jars/org.scala-lang/scala-library/scala-library-2.10.4.jar
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/lib_managed/jars/org.scala-lang/scala-library/scala-library-2.10.4.jar
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/lib_managed/jars/org.scala-lang/scala-library/scala-library-2.10.4.jar
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> /home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+31 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> chapter02.Constants
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> chapter02.Constants$class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> chapter02.DataConfig
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> chapter02.DataConfig$
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> chapter02.Restaurant
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> chapter02.Restaurant$
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> chapter02.SessionData
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> chapter02.SessionData$
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$3
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$4
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$5
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$5$$anonfun$10
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$5$$anonfun$6
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$5$$anonfun$7
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$5$$anonfun$8
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$5$$anonfun$9
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$5$$anonfun$9$$anonfun$apply$1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$main$1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$main$2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02.Stats$$anonfun$main$2$$anonfun$apply$2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> chapter02.Utilities
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> chapter02.Utilities$
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> chapter02.Utilities$$anonfun$1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> chapter02.Utilities$$anonfun$2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> chapter02.Utilities$$anonfun$2$$anonfun$3
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> chapter02.Utilities$$anonfun$4
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> chapter02.Utilities$$anonfun$4$$anonfun$5
+used names:
+269 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> &&
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> ->
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> <init>
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> <repeated>
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> ==
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> A
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> AbstractFunction1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> AbstractFunction4
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> AbstractFunction5
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Any
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> AnyRef
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Array
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> ArrowAssoc
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> B
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Boolean
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> ClassTag
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Constants
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> DataConfig
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> IndexOutOfBoundsException
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Int
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Iterator
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Map
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> None
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Nothing
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Object
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Predef
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Product
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Restaurant
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> ScalaRunTime
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Serializable
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> SessionData
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Some
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> String
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> StringContext
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> T
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> T0
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> T1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> T2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> T3
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> T4
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> T5
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Tuple2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Tuple4
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> Tuple5
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> _$6
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> _hashCode
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> _toString
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> any2ArrowAssoc
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> apply
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> asInstanceOf
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> chapter02
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> city
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> cityCodes
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> dataPath
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> datasetPath
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> datetime
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> endPoint
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> entryPoint
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> eq
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> features
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> featuresFile
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> id
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> ip
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> isInstanceOf
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> locations
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> materializeClassTag
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> name
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> navigationOperationCodes
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> navigations
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> package
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> runtime
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> s
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> scala
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> sessionPath
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> toString
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> typedProductIterator
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> ||
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> *
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> +
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> ->
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> <init>
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> <repeated>
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> A
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Any
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> AnyRef
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Array
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> ArrayOps
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> ArrowAssoc
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> B
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Boolean
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> CanBuildFrom
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> ClassTag
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Coll
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> DataConfig
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> File
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Function1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> GenTraversableOnce
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Int
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> IntIsIntegral
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Iterable
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> K
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Map
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> MatchError
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Nothing
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Numeric
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Object
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Ordering
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Predef
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Restaurant
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Seq
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> SortedMap
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Stats
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> String
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> StringContext
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> StringOps
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> T
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> T1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> T2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> That
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Tuple2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> U
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Unit
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> Utilities
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> _$4
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> _$6
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> _1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> _2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> allsum
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> any2ArrowAssoc
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> apply
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> arg$1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> arg$2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> arg$3
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> arg$4
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> args
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> augmentString
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> canBuildFrom
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> chapter02
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> citiesSorted
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> city
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> cityAndTop5
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> collection
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> config
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> count
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> dataPath
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> entreeDataPath
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> entry
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> f
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> features
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> featuresFile
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> featuresMap
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> flatMap
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> foreach
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> format
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> groupBy
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> grouped
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> immutable
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> intArrayOps
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> io
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> java
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> k
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> keys
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> loadFeaturesMap
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> loadLocationData
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> location
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> locations
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> map
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> materializeClassTag
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> math
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> ne
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> package
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> partialSum
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> println
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> r
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> refArrayOps
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> restaurantList
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> restaurants
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> reverse
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> s
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> scala
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> size
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> sortBy
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> sorted
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> sum
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> take
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> toArray
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> toSeq
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> top5
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> unchecked
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> v
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> ->
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> <:<
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> <init>
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> A
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Any
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> AnyRef
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Array
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> ArrayOps
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> ArrowAssoc
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> B
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> BufferedSource
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> CanBuildFrom
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Class
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> ClassTag
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Codec
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> File
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Function1
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Int
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Iterator
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Map
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Nothing
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Object
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Predef
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Restaurant
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> SessionData
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Source
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> String
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> T
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> That
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Tuple2
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> U
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> Utilities
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> _$4
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> _$6
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> any2ArrowAssoc
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> apply
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> canBuildFrom
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> chapter02
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> city
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> conforms
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> datetime
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> drop
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> dropRight
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> endPoint
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> entry
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> entryPoint
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> f
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> fallbackSystemCodec
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> features
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> featuresFile
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> featuresMap
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> fromFile
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> getLines
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> getName
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> io
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> ip
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> java
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> last
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> line
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> locationFeatures
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> locationFile
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> map
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> materializeClassTag
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> navigations
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> package
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> refArrayOps
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> replaceAll
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> restaurantName
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> restuarantId
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> scala
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> sessionFile
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> sessions
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> split
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> src
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> toArray
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> toMap
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> trim
+product stamps:
+31 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Constants$class.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Constants.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/DataConfig$.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/DataConfig.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Restaurant$.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Restaurant.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/SessionData$.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/SessionData.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$1.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$2.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$3.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$4.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$10.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$6.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$7.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$8.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$9$$anonfun$apply$1.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5$$anonfun$9.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$5.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$main$1.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$main$2$$anonfun$apply$2.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$$anonfun$main$2.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats$.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Stats.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$$anonfun$1.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$$anonfun$2$$anonfun$3.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$$anonfun$2.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$$anonfun$4$$anonfun$5.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$$anonfun$4.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities$.class -> lastModified(1487244862000)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/target/scala-2.10/classes/chapter02/Utilities.class -> lastModified(1487244862000)
+source stamps:
+3 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> hash(969b4b5f3eb7bd9ae5b86136b93227ada7ee04e4)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> hash(796e6cf00dd324a97ba5ee7ccbfc275088e82034)
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> hash(91671f29e086bdee927170353f02aec7ddeac491)
+binary stamps:
+2 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/lib_managed/jars/org.scala-lang/scala-library/scala-library-2.10.4.jar -> lastModified(1487244624000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1485301148000)
+class names:
+2 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/lib_managed/jars/org.scala-lang/scala-library/scala-library-2.10.4.jar -> scala.io.Source
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwDQXimwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA0c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwMHmuoXQACWxvY2F0aW9uc3NxAH4ADLfSvgx0AAZub3RpZnlzcQB+AAzXNeiVdAAEY2l0eXNxAH4ADDTtXHF0AARuYW1lc3EAfgAMUQgUB3QAAmlwc3EAfgAM4eoxvXQABHdhaXRzcQB+AAwU6QvtdAAJY2l0eUNvZGVzc3EAfgAM/lGIEHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMvMImWHQADSRhc0luc3RhbmNlT2ZzcQB+AAxsoGjydAAOY29weSRkZWZhdWx0JDVzcQB+AAxOr0s6dAAIZW5kUG9pbnRzcQB+AAx557fpdAAKZW50cnlQb2ludHNxAH4ADAwPQv10AAhkYXRhUGF0aHNxAH4ADPB48S90AAxwcm9kdWN0QXJpdHlzcQB+AAwF3mFXdAAGZXF1YWxzc3EAfgAMdXtvlHQADGFzSW5zdGFuY2VPZnNxAH4ADKj1sbZ0AAhmZWF0dXJlc3NxAH4ADGkEefx0AAlDb25zdGFudHNzcQB+AAwEPu0UdAAIZGF0ZXRpbWVzcQB+AAxgSSrsdAAMc3luY2hyb25pemVkc3EAfgAMDNe57HQADSRpc0luc3RhbmNlT2ZzcQB+AAxN3SlAdAAMZmVhdHVyZXNGaWxlc3EAfgAMGnV35XQACGNhbkVxdWFsc3EAfgAMAMq4/XQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMkcRQz3QADXByb2R1Y3RQcmVmaXhzcQB+AAyCp/W4dAAJbm90aWZ5QWxsc3EAfgAMUA16YHQAC25hdmlnYXRpb25zc3EAfgAM53+psnQADGlzSW5zdGFuY2VPZnNxAH4ADBGITSd0AAY8aW5pdD5zcQB+AAz5nPmNdAAKUmVzdGF1cmFudHNxAH4ADLuTHB90AAJpZHNxAH4ADKYdXtJ0AAI9PXNxAH4ADOSuNl50AAtkYXRhc2V0UGF0aHNxAH4ADGOUC0R0AAVjbG9uZXNxAH4ADPsqIqx0AAtTZXNzaW9uRGF0YXNxAH4ADLReCLt0AAYkaW5pdCRzcQB+AAzZMqh7dAAOY29weSRkZWZhdWx0JDNzcQB+AAxfh6LydAAEY29weXNxAH4ADA2JKth0ABhuYXZpZ2F0aW9uT3BlcmF0aW9uQ29kZXNzcQB+AAzpBxVPdAAIdG9TdHJpbmdzcQB+AAwSneysdAACIT1zcQB+AAxE6PGIdAAIZ2V0Q2xhc3NzcQB+AAyX5RxcdAAOY29weSRkZWZhdWx0JDFzcQB+AAxiTwtSdAALc2Vzc2lvblBhdGhzcQB+AAyijHRzdAAKRGF0YUNvbmZpZ3NxAH4ADMcPpq50AAJuZXNxAH4ADIvaGK50AAJlcXNxAH4ADNZCO0B0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAy1nsuIdAACIyNzcQB+AAw7PRqPdAAIZmluYWxpemVzcQB+AAwSHpC4dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAytoAwmdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAUY2hhcHRlcjAyLlJlc3RhdXJhbnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Al3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB/TAAJaW5oZXJpdGVkcQB+AH9MAAdwYXJlbnRzcQB+AH94cQB+AJxzcQB+AJd1cQB+AHoAAAAAc3EAfgCXdXEAfgB6AAAAAHNxAH4Al3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Am3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Am3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AtXNxAH4AqHEAfgCrc3EAfgCsc3EAfgCvdXEAfgCyAAAAA3NxAH4AtHQABGphdmFzcQB+ALR0AAJpb3EAfgC5c3EAfgCodAAHUHJvZHVjdHEAfgCuc3EAfgCodAAGRXF1YWxzcQB+AK5zcQB+AKh0AAZPYmplY3RzcQB+AKxzcQB+AK91cQB+ALIAAAADc3EAfgC0cQB+AL9zcQB+ALR0AARsYW5ncQB+ALlzcQB+AKh0AANBbnlxAH4ArnNxAH4AfHEAfgCJdXEAfgCKAAAAAHNxAH4AjAB0ABVjaGFwdGVyMDIuU2Vzc2lvbkRhdGF1cQB+AI8AAAAAcQB+AJN1cQB+AJUAAAAAc3EAfgCXcQB+AJ1zcQB+AJdzcQB+AJ9zcQB+AJd1cQB+AHoAAAAAc3EAfgCXdXEAfgB6AAAAAHNxAH4Al3VxAH4ApgAAAAZzcQB+AKhxAH4Aq3NxAH4ArHNxAH4Ar3VxAH4AsgAAAAJzcQB+ALRxAH4At3EAfgC5c3EAfgCocQB+AKtzcQB+AKxzcQB+AK91cQB+ALIAAAADc3EAfgC0cQB+AL9zcQB+ALR0AAJpb3EAfgC5c3EAfgCocQB+AMNxAH4A4HNxAH4AqHQABkVxdWFsc3EAfgDgc3EAfgCocQB+AMdzcQB+AKxzcQB+AK91cQB+ALIAAAADc3EAfgC0cQB+AL9zcQB+ALRxAH4AzXEAfgC5c3EAfgCocQB+AM9xAH4A4HNxAH4AfHEAfgCJdXEAfgCKAAAAAHNxAH4AjAF0ABNjaGFwdGVyMDIuQ29uc3RhbnRzdXEAfgCPAAAAAH5xAH4AkXQABVRyYWl0dXEAfgCVAAAAAHNxAH4Al3EAfgCdc3EAfgCXc3EAfgCfc3EAfgCXdXEAfgB6AAAAAHNxAH4Al3VxAH4AegAAAABzcQB+AJd1cQB+AKYAAAACc3EAfgCocQB+AMdzcQB+AKxzcQB+AK91cQB+ALIAAAADc3EAfgC0cQB+AL9zcQB+ALRxAH4AzXEAfgC5c3EAfgCocQB+AM9zcQB+AKxzcQB+AK91cQB+ALIAAAACc3EAfgC0cQB+ALdxAH4AuXNxAH4AfHEAfgCJdXEAfgCKAAAAAHNxAH4AjAB0ABRjaGFwdGVyMDIuRGF0YUNvbmZpZ3VxAH4AjwAAAABxAH4Ak3VxAH4AlQAAAABzcQB+AJdxAH4AnXNxAH4Al3NxAH4An3NxAH4Al3VxAH4AegAAAABzcQB+AJd1cQB+AHoAAAAAc3EAfgCXdXEAfgCmAAAAB3NxAH4AqHEAfgCrc3EAfgCsc3EAfgCvdXEAfgCyAAAAAnNxAH4AtHEAfgC3cQB+ALlzcQB+AKhxAH4Aq3NxAH4ArHNxAH4Ar3VxAH4AsgAAAANzcQB+ALRxAH4Av3NxAH4AtHQAAmlvcQB+ALlzcQB+AKhxAH4Aw3EAfgEhc3EAfgCodAAGRXF1YWxzcQB+ASFzcQB+AKh0AAlDb25zdGFudHNzcQB+AKxzcQB+AK91cQB+ALIAAAACc3EAfgC0dAAJY2hhcHRlcjAycQB+ALlzcQB+AKhxAH4Ax3NxAH4ArHNxAH4Ar3VxAH4AsgAAAANzcQB+ALRxAH4Av3NxAH4AtHEAfgDNcQB+ALlzcQB+AKhxAH4Az3EAfgEhdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJY2hhcHRlcjAyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaRrNmC3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGgvaG9tZS9raWVsaW5pL2RldmVsb3BtZW50L3NjYWxhL0J1aWxkaW5nLXJlY29tZW5kYXRpb25zLWVuZ2luZS13aXRoLXNjYWxhLWJvb2svdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJabS18+t72a5bhhNrkyJ62n7gTk
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwVkyDmgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwAC0QKHQABm5vdGlmeXNxAH4ADGkqA9h0AAR3YWl0c3EAfgAMdJovi3QADSRhc0luc3RhbmNlT2ZzcQB+AAwzmxwFdAAGZXF1YWxzc3EAfgAMG4+iFXQADGFzSW5zdGFuY2VPZnNxAH4ADB5o6M90AAxzeW5jaHJvbml6ZWRzcQB+AAy7lwWudAANJGlzSW5zdGFuY2VPZnNxAH4ADBNNXON0AARtYWluc3EAfgAMfnMXy3QACW5vdGlmeUFsbHNxAH4ADAb0eG10AAxpc0luc3RhbmNlT2ZzcQB+AAyfkVnrdAACPT1zcQB+AAzouujKdAAFY2xvbmVzcQB+AAwFYGqWdAAIdG9TdHJpbmdzcQB+AAxPMF4NdAACIT1zcQB+AAxbmbODdAAIZ2V0Q2xhc3NzcQB+AAzaFgLPdAACbmVzcQB+AAzy3w5YdAAFU3RhdHNzcQB+AAymSWnYdAACZXFzcQB+AAxeN07OdAACIyNzcQB+AAy6ZdCldAAIZmluYWxpemVzcQB+AAwoGe6GdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAPY2hhcHRlcjAyLlN0YXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWNoYXB0ZXIwMnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWkazZgt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABoL2hvbWUva2llbGluaS9kZXZlbG9wbWVudC9zY2FsYS9CdWlsZGluZy1yZWNvbWVuZGF0aW9ucy1lbmdpbmUtd2l0aC1zY2FsYS1ib29rL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABR5bmzwDdMkqXul7nzL/CdQiOggNA==
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwozNAUwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwQDvC4XQABm5vdGlmeXNxAH4ADEcmVFl0AAR3YWl0c3EAfgAMq03JnXQADSRhc0luc3RhbmNlT2ZzcQB+AAy3SXtydAAGZXF1YWxzc3EAfgAMrn1zQ3QAD2xvYWRGZWF0dXJlc01hcHNxAH4ADHrrn8F0AAxhc0luc3RhbmNlT2ZzcQB+AAyXH+pOdAAMc3luY2hyb25pemVkc3EAfgAMfs+TuXQADSRpc0luc3RhbmNlT2ZzcQB+AAydiY4WdAAJbm90aWZ5QWxsc3EAfgAMrbpyJnQADGlzSW5zdGFuY2VPZnNxAH4ADClMTNV0AA9sb2FkU2Vzc2lvbkRhdGFzcQB+AAwhSTgwdAACPT1zcQB+AAyRVH/VdAAFY2xvbmVzcQB+AAz645s9dAAQbG9hZExvY2F0aW9uRGF0YXNxAH4ADL5BSjJ0AAlVdGlsaXRpZXNzcQB+AAyXYFHPdAAIdG9TdHJpbmdzcQB+AAzeLqZbdAACIT1zcQB+AAzt8vSMdAAIZ2V0Q2xhc3NzcQB+AAxtM/cddAACbmVzcQB+AAycrmZVdAACZXFzcQB+AAx2aDPfdAACIyNzcQB+AAw/IsZZdAAIZmluYWxpemVzcQB+AAzVKxqcdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAATY2hhcHRlcjAyLlV0aWxpdGllc3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGJzcQB+AF11cQB+AEAAAAAAc3EAfgBddXEAfgBAAAAAAHNxAH4AXXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJY2hhcHRlcjAyc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFaRrNmC3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGgvaG9tZS9raWVsaW5pL2RldmVsb3BtZW50L3NjYWxhL0J1aWxkaW5nLXJlY29tZW5kYXRpb25zLWVuZ2luZS13aXRoLXNjYWxhLWJvb2svdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJFnHynghr3uknFwNT8Crsfd6sSR
+external apis:
+0 items
+source infos:
+3 items
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/DataConfig.scala -> 
+AAAAAAAAAAA=
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Stats.scala -> 
+AAAAAAAAAAA=
+/home/kielini/development/scala/Building-recomendations-engine-with-scala-book/src/main/scala/chapter02/Utilities.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWkazZgt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaC9ob21lL2tpZWxpbmkvZGV2ZWxvcG1lbnQvc2NhbGEvQnVpbGRpbmctcmVjb21lbmRhdGlvbnMtZW5naW5lLXdpdGgtc2NhbGEtYm9vay90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
